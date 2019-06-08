@@ -11,9 +11,11 @@
 
 - Szükséges HTML elemek:
 
-1: alkalmazás konténerek
+1: alkalmazás elemeinek létrehozása
 
-- weboldal váza: fejléc, ...
+- fejléc: Logo, link githubra,
+- css: háttérszín, ...
+- ...
 
 2: lista elemek
 
@@ -31,6 +33,7 @@
 
 ### Képernyőterv:
 
+![todo-app](https://raw.githubusercontent.com/gergely-nagy/todo-app-kata/master/src/todo-app.png)
 
 ## JavaScript
 ## React
